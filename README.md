@@ -98,7 +98,7 @@ public void main_ShouldPrintCorrectOutput() {
     assertTrue(output.contains(expectedOutput));
 }
 ```
-The test verifies that the program's output matches the expected result.
+The test has a coverage of 86%.
 
 ## Future Improvement: Implementing as a Spring Boot REST API
 
